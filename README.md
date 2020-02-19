@@ -28,8 +28,10 @@ The following instructions show how to achieve the performance that we submitted
 
 4. run the following commands to replicate our results submitted to DAWNBench,  
 ```shell
-   ## download tf records of ImageNet to imagenet_val path
-   ## run eval 
+   cd inference
+   tar xzvf model.tar.gz
+   ## 1.download tf records of ImageNet to imagenet_val path
+   ## 2.run eval 
    sh eval.sh
 ```
 
