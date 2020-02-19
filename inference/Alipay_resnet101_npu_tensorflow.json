@@ -8,7 +8,7 @@
     "model": "ResNet101",
     "hardware": "Alibaba Cloud Npu, from https://promotion.aliyun.com/ntms/act/alinpu.html?spm=5176.12901015.0.i12901015.4c27525cDE1r6q",
     "latency": 0.387978,
-    "cost": None,
+    "cost": null,
     "top5Accuracy": 93.38,
     "timestamp": "2020-02-07",
     "misc": {
